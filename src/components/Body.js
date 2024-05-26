@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import "../styles/Body.css";
 import { store } from '../productsStore/Store';
-import HoverImage from "react-hover-image/build";
+
 import { Link } from 'react-router-dom';
 
 const Body = () => {
@@ -129,7 +129,7 @@ const Body = () => {
                             return (
                                 <Link to={`/${item.id}`} key={item.id}>
                                     <div className="bodyTypeIndivitual">
-                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="rounded-xl bodyTypeImage" />
+
                                         <p className='text-center fs bodyTypeName'>{item.name}</p>
                                     </div>
                                 </Link>
@@ -173,7 +173,7 @@ const Body = () => {
                                 return (
                                     <Link to={`/${item.id}`} key={item.id}>
                                         <div className="TravelIndivitual">
-                                            <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="rounded-xl w-40" />
+                                          
                                             <p className='font-semibold text-base px'>{item.name}</p>
                                             <p className='text-base font-normal text-center'>${item.price}</p>
                                         </div>
@@ -200,7 +200,7 @@ const Body = () => {
                             return (
                                 <Link to={`/${item.id}`} key={item.id}>
                                     <div className='newIndivitual'>
-                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="rounded-xl w-40" />
+                                      
                                         <p className='font-semibold text-center text-base px'>{item.name}</p>
                                         <p className='text-base font-normal text-center'>${item.price}</p>
                                     </div>
