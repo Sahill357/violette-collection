@@ -1,13 +1,8 @@
 import React from 'react'
 import u20bg from "../assets/u20bg.png";
 import "../styles/Under20.css";
-import {
-    Breadcrumb,
-    BreadcrumbItem,
-    BreadcrumbLink,
-    BreadcrumbSeparator,
-} from 
-import { ChevronRightIcon } from '@chakra-ui/icons';
+
+
 import { Link } from 'react-router-dom';
 import filterBtn from "../assets/filterBtn.png";
 import sortBtn from "../assets/sortBtn.png"
@@ -122,16 +117,7 @@ const Under20 = () => {
             </div>
 
             <div className='u20BreadCrumbHold absolute text-sm'>
-                <Breadcrumb spacing='8px' separator={<ChevronRightIcon />}>
-                    <BreadcrumbItem>
-                        <Link to={`/`}>Home</Link>
-                    </BreadcrumbItem>
-
-
-                    <BreadcrumbItem>
-                        <Link to={`/`} href='#'>Under 20</Link>
-                    </BreadcrumbItem>
-                </Breadcrumb>
+                
             </div>
 
             <div className='filterSortHold flex flex-row gap-8 absolute text-left'>

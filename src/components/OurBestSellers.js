@@ -5,7 +5,7 @@ import { useDispatch } from 'react-redux'
 import { cartActions } from '../redux-state/CartState'
 
 import { Link } from 'react-router-dom'
-import { useToast } from 
+import { useToast } from '@chakra-ui/react'
 
 
 const OurBestSellers = (props) => {

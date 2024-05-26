@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 import "../styles/SearchBox.css"
 import { AiOutlineSearch } from "react-icons/ai";
-import { Avatar, AvatarBadge, AvatarGroup } from 
+import { Avatar, AvatarBadge, AvatarGroup } from '@chakra-ui/react'
 import { AiFillStar } from "react-icons/ai"
 import Highlighter from "react-highlight-words";
 

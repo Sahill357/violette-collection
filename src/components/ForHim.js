@@ -1,13 +1,8 @@
 import React from 'react'
 import u20bg from "../assets/u20bg.png";
 import "../styles/Under20.css";
-import {
-    Breadcrumb,
-    BreadcrumbItem,
-    BreadcrumbLink,
-    BreadcrumbSeparator,
-} from 
-import { ChevronRightIcon } from '@chakra-ui/icons';
+
+
 import { Link } from 'react-router-dom';
 import filterBtn from "../assets/filterBtn.png";
 import sortBtn from "../assets/sortBtn.png"

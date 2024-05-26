@@ -7,7 +7,7 @@ import {
     AccordionPanel,
     AccordionIcon,
     Box
-} from 
+} from '@chakra-ui/react'
 
 import aus from "../assets/aus.png";
 
