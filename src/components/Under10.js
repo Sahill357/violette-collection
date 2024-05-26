@@ -13,7 +13,7 @@ import filterBtn from "../assets/filterBtn.png";
 import sortBtn from "../assets/sortBtn.png"
 import { useState } from 'react';
 import { store } from "../productsStore/Store";
- 
+import HoverImage from 'react-hover-image/build';
 import JournalSection from "./JournalSection"
 import Features2 from './Features2';
 
@@ -173,7 +173,7 @@ const Under10 = () => {
                             <div className='card w-96 bg-base-100 shadow-xl  '>
                                 <Link to={`/${item.id}`}>
                                     <figure className="px-10 pt-10">
-                                       
+                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="w-32 u20img" />
                                     </figure>
 
                                 </Link>
@@ -211,7 +211,7 @@ const Under10 = () => {
                             <div className='card w-96 bg-base-100 shadow-xl  '>
                                 <Link to={`/${item.id}`}>
                                     <figure className="px-10 pt-10">
-                                         
+                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="w-32 u20img" />
                                     </figure>
 
                                 </Link>
@@ -244,7 +244,7 @@ const Under10 = () => {
                             <div className='card w-96 bg-base-100 shadow-xl  '>
                                 <Link to={`/${item.id}`}>
                                     <figure className="px-10 pt-10">
-                                         
+                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="w-32 u20img" />
                                     </figure>
 
                                 </Link>
@@ -279,7 +279,7 @@ const Under10 = () => {
                             <div className='card w-96 bg-base-100 shadow-xl  '>
                                 <Link to={`/${item.id}`}>
                                     <figure className="px-10 pt-10">
-                                       
+                                        <HoverImage src={item.primaryImage} hoverSrc={item.hoverImg} className="w-32 u20img" />
                                     </figure>
 
                                 </Link>
