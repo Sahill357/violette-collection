@@ -6,7 +6,7 @@ import {
     BreadcrumbItem,
     BreadcrumbLink,
     BreadcrumbSeparator,
-} from '@chakra-ui/react'
+} from 
 import { ChevronRightIcon } from '@chakra-ui/icons';
 import { Link } from 'react-router-dom';
 import filterBtn from "../assets/filterBtn.png";
