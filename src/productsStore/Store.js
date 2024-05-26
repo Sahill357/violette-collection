@@ -8,7 +8,7 @@ export const store = [
         price: 9,
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Foaming_Facial_Cleanser_125ml_01_Product_540x.jpg?v=1599504600",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Foaming_Facial_Cleanser_125ml_OH_01_1_540x.jpg?v=1599504601",
 
     },
 
@@ -18,7 +18,7 @@ export const store = [
         price: 9,
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Facial_Moisturiser_125ml_01_Product_540x.jpg?v=1599504612",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Facial-Moisturiser_01_540x.jpg?v=1599504612",
 
     },
 
@@ -28,7 +28,7 @@ export const store = [
         price: 9,
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504641",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_OH_01_540x.jpg?v=1599504641",
 
     },
 
@@ -38,7 +38,7 @@ export const store = [
         price: 9,
         type: "bestSeller",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_Super_Greens_Detoxifying_Facial_Masque_540x.jpg?v=1599504639",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Detoxifying-Clay-Masque_01_540x.jpg?v=1599504639",
 
     },
 
@@ -50,7 +50,7 @@ export const store = [
         price: 12,
         type: "gift",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Rose_Gift_Pack_Front_360x.jpg?v=1602265134",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Rose_Gift_Pack_Angle_360x.jpg?v=1602265134",
 
     },
 
@@ -60,7 +60,8 @@ export const store = [
         price: 10,
         type: "gift",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hand_Cream_Trio_Gift_Pack_Front_360x.jpg?v=1602265134",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hand_Cream_Trio_Gift_Pack_Angle_360x.jpg?v=1602265134",
+
     },
 
     {
@@ -69,7 +70,7 @@ export const store = [
         price: 15,
         type: "gift",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/TheLavenderPack1000x1000_360x.jpg?v=1604413498",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/9327693009396_-TheLavenderPack_360x.jpg?v=1602265136",
 
     },
 
@@ -81,7 +82,7 @@ export const store = [
         price: 11,
         type: "navbar-BodyType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Coffee___Coconut_Energising_Body_Scrub_200ml_01_Product_540x.jpg?v=1599504583",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Coffee___Coconut_Energising_Body_Scrub_200ml_OH_01_540x.jpg?v=1599504583",
 
     },
 
@@ -91,7 +92,7 @@ export const store = [
         price: 18,
         type: "navbar-BodyType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Botanical_Body_Wash_1L_01_Product_540x.jpg?v=1599504644",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/AloeVera-styled-shot_c2cadf15-cec0-4788-8cb5-10c22e5ccfd7_540x.jpg?v=1599504644",
 
     },
 
@@ -102,7 +103,7 @@ export const store = [
         price: 21,
         type: "navbar-BodyType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Body_Lotion_500mL_01_Product_540x.jpg?v=1599504585",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site-SIG_fd44fcf9-5f2e-4a03-9deb-06e175447fd7_540x.png?v=1599504585",
 
     },
 
@@ -114,7 +115,7 @@ export const store = [
         price: 56,
         type: "navbar-TravelType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Foaming_Facial_Cleanser_50mL_Tube_WEB.jpg?v=1599504567",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/IMG_8764_360x.jpg?v=1602265059",
 
     },
 
@@ -124,7 +125,7 @@ export const store = [
         price: 28,
         type: "navbar-TravelType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydrating_Mist_Toner_50mL_WEB_540x.jpg?v=1599504599",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/239024VIOLETTA-SocialContentShoot_321_360x.jpg?v=1599504599",
 
     },
 
@@ -134,7 +135,7 @@ export const store = [
         price: 22,
         type: "navbar-TravelType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Revitalising_Facial_Scrub_50mL_Tube_WEB_540x.jpg?v=1599504603",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/239024VIOLETTA-SocialContentShoot_341_1_360x.jpg?v=1602265081",
 
     },
 
@@ -145,7 +146,8 @@ export const store = [
         price: 44,
         type: "navbar-TravelType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Natural_Balance_Shampoo_50mL_Tube_Grey_BG_FOR_WEB_540x.jpg?v=1599504616",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/239024VIOLETTA-SocialContentShoot_341_360x.jpg?v=1599504616",
+
     },
 
     // for navbar ka new type ke liye 
@@ -156,7 +158,7 @@ export const store = [
         price: 52,
         type: "navbar-NewType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504649",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_Green_Tea_Mist_Toner_125ml_01_540x.jpg?v=1599504649",
 
     },
 
@@ -167,7 +169,7 @@ export const store = [
         price: 47,
         type: "navbar-NewType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_Coffee_Coconut_Exfoliating_Masque_540x.jpg?v=1599504663",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Coffee___Coconut_Exfoliating_Facial_Masque_100ml_OH_01_540x.jpg?v=1599504663",
 
     },
 
@@ -178,7 +180,7 @@ export const store = [
         price: 21,
         type: "navbar-NewType",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_Rosehip_Oil-25ml-Product_540x.jpg?v=1599504623",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site-RH_62038fc0-558f-45e6-b0cd-061fba08bfd8_540x.png?v=1599504623",
 
     },
 
@@ -190,7 +192,7 @@ export const store = [
         price: 21,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504641",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Mist_Toner_125ml_OH_01_360x.jpg?v=1599504641",
 
     },
 
@@ -201,7 +203,7 @@ export const store = [
         price: 61,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_01_Product_540x.jpg?v=1599504649",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Rose_Mist_Toner_125ml_Green_Tea_Mist_Toner_125ml_01_360x.jpg?v=1599504649",
 
     },
 
@@ -211,7 +213,7 @@ export const store = [
         price: 45,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Facial_Moisturiser_125ml_01_Product_540x.jpg?v=1599504612",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Facial-Moisturiser_01_540x.jpg?v=1599504612",
 
     },
 
@@ -221,7 +223,7 @@ export const store = [
         price: 84,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Micellar_Cleansing_Water_250ml_01_Product_540x.jpg?v=1599504588",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Micellar_Cleansing_Water_250ml_OH_01_540x.jpg?v=1599504588",
 
     },
 
@@ -231,7 +233,7 @@ export const store = [
         price: 25,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Cream_Cleanser_125ml_01_Product_540x.jpg?v=1599504664",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Cream_Cleanser_125ml_OH_01_540x.jpg?v=1599504664",
 
     },
 
@@ -241,7 +243,7 @@ export const store = [
         price: 45,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Revitalising_Facial_Scrub_125ml_01_Product_540x.jpg?v=1599504656",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_Revitalising_Facial_Scrub_125ml_OH_01_540x.jpg?v=1599504656",
 
     },
 
@@ -251,7 +253,7 @@ export const store = [
         price: 157,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_01_Product_2_540x.jpg?v=1599504579",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_OH_01_540x.jpg?v=1599504579",
 
     },
 
@@ -262,7 +264,7 @@ export const store = [
         price: 24,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Antioxident_Eye_Serum_01_Product_540x.jpg?v=1599504580",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Antioxidant_Eye_Cream_30ml_01_540x.jpg?v=1599504580",
 
     },
 
@@ -272,7 +274,7 @@ export const store = [
         price: 75,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA-Paw-Paw_540x.jpg?v=1599504587",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_pawpaw_540x.jpg?v=1599504587",
 
     },
 
@@ -282,7 +284,7 @@ export const store = [
         price: 78,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Moisture_Restoring_Night_Cream_120ml_01_Product_2_540x.jpg?v=1599504662",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Moisture_Restoring_Night_Cream_120ml_01_540x.jpg?v=1599504662",
 
     },
 
@@ -292,7 +294,8 @@ export const store = [
         price: 57,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Purifying_Facial_Masque_01_Product_2_540x.jpg?v=1599504582",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Facial_Masque_OH_01_540x.jpg?v=1599504579",
+
     },
 
     {
@@ -301,7 +304,7 @@ export const store = [
         price: 88,
         type: "ourBestSellers",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Hydrating_Body_Lotion_500ml_02_540x.jpg?v=1599504645",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydrating-Body-Lotion_02_540x.jpg?v=1599504645",
 
     },
 
@@ -406,7 +409,7 @@ export const store = [
         price: 18,
         type: "bodywash all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NB_ScalpScrub200mlTube_200mL_02_large.jpg?v=1654006879",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site-SIG_3ec6e6c0-aee5-483d-a6c9-e4abab736fd7_large.png?v=1654006879",
         stars: 4,
         descr: "Our lightweight Leave-In Conditioner hydrates, gently detangles and tames frizz leaving hair smooth and manageable.            "
 
@@ -418,7 +421,7 @@ export const store = [
         price: 15,
         type: "bodywash all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NB_Leave-InConditioner_250ml_02_large.jpg?v=1654006878",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NaturalBalance_7be6d9d2-0387-44f2-9949-b03a344fc044_large.jpg?v=1654006878",
         stars: 5,
         descr: "Our Scalp Scrub removes product build up and impurities with a refreshing blend of Peppermint & Ginger Extract.        "
 
@@ -430,7 +433,7 @@ export const store = [
         price: 15,
         type: "bodywash all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/ROW_PAMicroExfoliatingCleanser125mL_1500px_large.jpg?v=1618352423",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/ROW_PAMicroExfoliatingCleanser125mL_1500px_large.jpg?v=1618352423",
         stars: 5,
         descr: "Hydrate and protect dry hands while caring for nails and cuticles through Soy Protein, Aloe Vera & Vitamin E"
 
@@ -446,7 +449,7 @@ export const store = [
         price: 11,
         type: "bodywash all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Colour_Care_Lustre_Masque_200mL_02_For_Web_large.jpg?v=1616509409",
- 
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/ColourCare2_large.jpg?v=1616509409",
         stars: 5,
         descr: "Seriously hydrate the delicate under eye area with our fragrance-free water gel.            "
 
@@ -460,7 +463,7 @@ export const store = [
         price: 15,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/CreamyBodyWash500ml_large.jpg?v=1649168513",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/CreamyBodyFinal_large.jpg?v=1649168513",
         stars: 5,
         descr: "Deliver an instant boost of moisture to skin with our ultra-hydrating gel cream."
     },
@@ -471,7 +474,7 @@ export const store = [
         price: 19,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Biomarine_Facial_Serum_02_FOR_WEB_large.jpg?v=1646144556",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/MicrosoftTeams-image_5_-SMALL_large.jpg?v=1646144556",
         stars: 5,
         descr: "Our glow-promoting cleanser gently exfoliates to remove dead skin cells, excess sebum & make-up."
     },
@@ -482,7 +485,7 @@ export const store = [
         price: 14,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydra_Eye_Gel_15ml_Tube_02_FOR_WEB_large.jpg?v=1646144555",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/MicrosoftTeams-image_5_-SMALL_533a775e-6e81-48de-bafa-6250300a0219_large.jpg?v=1646144555",
         stars: 5,
         descr: "Our glow-promoting exfoliator is formulated with Kakadu plum, a natural source of Vitamin C, and Bromelain, a natural fruit...            "
 
@@ -495,7 +498,7 @@ export const store = [
         price: 16,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/ROW_SPFSheerTouchFacialSunscreen-Light-MediumTubeFRONT02_1000_large.jpg?v=1614090206",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTASPF30UCG_d249fc5d-2cd5-4be7-afbd-8f11d545261f_large.jpg?v=1614090207",
         stars: 5,
         descr: "Kakadu Plum, a natural source of Vitamin C, Vitamin E and Australian bioactive complex rich in antioxidants brighten and...            "
 
@@ -507,7 +510,7 @@ export const store = [
         price: 18,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/ROW_SPFSheerTouchFacialSunscreen-UntintedTubeFRONT02_1000px_large.jpg?v=1614090205",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTASPF30UCG_large.jpg?v=1614090205",
         stars: 5,
         descr: "Our Scalp Scrub removes product build up and impurities with a refreshing blend of Peppermint & Ginger Extract.        "
 
@@ -519,7 +522,7 @@ export const store = [
         price: 18,
         type: "bodyLotion all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_Rosehip_Facial_Masque_large.jpg?v=1599504675",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/STYLED_ROSE_FACIAL_MASQUE_large.jpg?v=1599504675",
         stars: 5,
         descr: "Our soap-free Bergamot & Patchouli Body Wash delights and stimulates the senses while leaving skin clean and fresh.            "
 
@@ -533,7 +536,7 @@ export const store = [
         price: 19,
         type: "bodyScrub all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Brightening_JellyExfoliator125ml_02_large.jpg?v=1629210220",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site_BRIGHTENING_451cbd3f-1e8b-446a-a45e-61cc31826f69_large.jpg?v=1629210220",
         stars: 5,
         descr: "Our cleanser helps exfoliate dead skin cells & cleanses away impurities to promote a more even complexion.            "
 
@@ -545,7 +548,7 @@ export const store = [
         price: 9,
         type: "bodyScrub all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Brightening_IlluminatingMoisturiser60ml_02_large.jpg?v=1629210218",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site_BRIGHTENING_cf1ff5a7-5a32-4bb0-a7ce-be69ccc9fcf0_large.jpg?v=1629210219",
         stars: 5,
         descr: " Our Color Luster Mask restores natural shine and radiance to color treated hair with Kakadu Plum & Birch Extracts.            "
 
@@ -557,7 +560,7 @@ export const store = [
         price: 16,
         type: "bodyScrub all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Bergamot_PachouliBodyWash500mL1000x1000x144_large.jpg?v=1637072534",
-         
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Bergamot_PachouliBodyWashpumpLifestyle1000x1000x144_large.jpg?v=1637072534",
         stars: 5,
         descr: "Our Scalp Scrub removes product build up and impurities with a refreshing blend of Peppermint & Ginger Extract.        "
 
@@ -569,7 +572,8 @@ export const store = [
         price: 16,
         type: "bodyScrub all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydrating_Treatment_Oil_50mL_Bottle_01_2_large.jpg?v=1599504672",
-       
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Hydrating_Hair_Oil_large.jpg?v=1599504672",
+        stars: 5,
         descr: "Our natural, sheer touch tinted sunscreen for light to medium skin tones has been designed with daily use in...            "
 
     },
@@ -580,7 +584,7 @@ export const store = [
         price: 16,
         type: "bodyScrub all",
         primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_Coffee_Coconut_Exfoliating_Masque_large.jpg?v=1599504663",
-        
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Masterbrand_Coffee___Coconut_Exfoliating_Facial_Masque_100ml_OH_01_large.jpg?v=1599504663",
         stars: 5,
         descr: "Our 100% naturally derived, sheer touch facial sunscreen has been designed with daily use in mind, and heroes natural...            "
 

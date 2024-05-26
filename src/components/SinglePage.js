@@ -49,7 +49,7 @@ const SinglePage = () => {
 
   const prodClicked = store.find((item) => item.id === id)
 
-  var { name, price, primaryImage,   } = prodClicked;
+  var { name, price, primaryImage, hoverImg } = prodClicked;
 
 
   let title = name;
@@ -102,7 +102,7 @@ const SinglePage = () => {
 
 
       <div className='sideImageHold flex flex-col relative gap-12'>
-        <img src="" className=" w-64 cursor-pointer  object-cover" onMouseEnter={imgSrcTarget} onMouseLeave={defaultImageSrc} />
+        <img src={hoverImg} className=" w-64 cursor-pointer  object-cover" onMouseEnter={imgSrcTarget} onMouseLeave={defaultImageSrc} />
         <img src='https://cdn.shopify.com/s/files/1/0081/7374/8305/products/NO_Lists_for_Site-SIG_21bc4fd3-c2b5-4e21-8244-1f0f61cce160_540x.png?v=1599504641' className='w-64 cursor-pointer rounded-lg object-cover' onMouseEnter={imgSrcTarget} onMouseLeave={defaultImageSrc} />
       </div>
 
