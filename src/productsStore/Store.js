@@ -273,8 +273,8 @@ export const store = [
         name: "ANTIOXIDANT FACEMASK",
         price: 75,
         type: "ourBestSellers",
-        primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA-Paw-Paw_540x.jpg?v=1599504587",
-        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/VIOLETTA_pawpaw_540x.jpg?v=1599504587",
+        primaryImage: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Sukin-Paw-Paw_540x.jpg?v=1599504587",
+        hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/sukin_pawpaw_540x.jpg?v=1599504587",
 
     },
 
